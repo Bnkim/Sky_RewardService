@@ -2,11 +2,10 @@
 
 namespace ConsoleApp2
 {
-    class Program
+    public class RewardServiceApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
